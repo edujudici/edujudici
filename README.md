@@ -3,9 +3,15 @@
 
 ### ✍️ Um pouco sobre mim
 
-📚 Sou formado em Sistemas de Informação desde 2012<br>
-🔭 Atualmente estou trabalhando com API em NodeJS, utilizando Amazon EKS e Argo! Tenho domínio em PHP/Laravel e Java/Spring Boot<br>
-🌱 Estou estudando Kubernetes, NodeJS e Go
+📚 Sou formado em Sistemas de Informação e atuo com desenvolvimento de sistemas desde 2012<br>
+
+🔭 Atualmente atuo como Software Architect, com foco em soluções modernas e escaláveis na nuvem AWS, utilizando uma abordagem Serverless. Tenho trabalhado principalmente com Golang no desenvolvimento de microserviços, além de ter sólida experiência no design e construção de APIs em Node.js, utilizando Amazon EKS e ArgoCD para orquestração e entrega contínua.
+<br>
+Domino também PHP com Laravel e Java com Spring Boot, o que me permite atuar com versatilidade em diferentes stacks e arquiteturas. No meu dia a dia, utilizo Inteligência Artificial como aliada para acelerar o desenvolvimento, automatizar tarefas repetitivas e aumentar a produtividade em atividades técnicas e operacionais.
+<br>
+Sou movido por desafios que exigem performance, resiliência e boas práticas de engenharia de software, sempre buscando soluções que equilibrem inovação e valor de negócio.
+
+🌱 Estou estudando IA, Kubernetes e aprimoramento no desenvolvimento em Golang
 
 Vejam mais: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edujudici/)](https://www.linkedin.com/in/edujudici/)
 
